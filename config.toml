@@ -1,5 +1,5 @@
 baseURL = "http://drumscratcher.com"
 languageCode = "en-us"
-title = "DrumScratcher"
+title = "Drumscratcher"
 
 theme = "hugo-theme-massively"
