@@ -1,0 +1,5 @@
+baseURL = "http://drumscratcher.com"
+languageCode = "en-us"
+title = "DrumScratcher"
+
+theme = "hugo-theme-massively"
