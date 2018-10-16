@@ -2,4 +2,6 @@ baseURL = "http://drumscratcher.com"
 languageCode = "en-us"
 title = "Drumscratcher"
 
+googleanalytics = "UA-127585111-1"
+
 theme = "hugo-theme-massively"
